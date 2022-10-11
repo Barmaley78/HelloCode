@@ -1,0 +1,15 @@
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\bin\Debug\net6.0\ex6.exe
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\bin\Debug\net6.0\ex6.deps.json
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\bin\Debug\net6.0\ex6.runtimeconfig.json
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\bin\Debug\net6.0\ex6.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\bin\Debug\net6.0\ex6.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.csproj.AssemblyReference.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.AssemblyInfoInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.AssemblyInfo.cs
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.csproj.CoreCompileInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\refint\ex6.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ex6.genruntimeconfig.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex6\obj\Debug\net6.0\ref\ex6.dll

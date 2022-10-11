@@ -1,0 +1,15 @@
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\bin\Debug\net6.0\ex7.exe
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\bin\Debug\net6.0\ex7.deps.json
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\bin\Debug\net6.0\ex7.runtimeconfig.json
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\bin\Debug\net6.0\ex7.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\bin\Debug\net6.0\ex7.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.csproj.AssemblyReference.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.AssemblyInfoInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.AssemblyInfo.cs
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.csproj.CoreCompileInputs.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\refint\ex7.dll
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.pdb
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ex7.genruntimeconfig.cache
+E:\Users\Сергей\Desktop\GB\c_sharp\Examples\ex7\obj\Debug\net6.0\ref\ex7.dll
